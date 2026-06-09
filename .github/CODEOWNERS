@@ -1,0 +1,8 @@
+# Everyone needs your review by default
+*                           @YOUR_GITHUB_USERNAME
+
+# Any changes to GitHub Actions workflows
+.github/workflows/          @YOUR_GITHUB_USERNAME
+
+# Any changes to the app folder
+app/                        @YOUR_GITHUB_USERNAME
